@@ -2,28 +2,28 @@ import { Code, Cpu, Database } from 'lucide-react';
 
 const skillCategories = [
   {
-    title: "Languages[cite: 7]",
+    title: "Languages",
     icon: <Code className="w-6 h-6 text-sky-400" />,
     skills: ["Java", "Python", "JavaScript", "C", "C++"],
     borderColor: "hover:border-sky-500/50",
     glow: "hover:shadow-sky-500/10",
-    description: "Proficient in object-oriented programming, scripting, and low-level system design[cite: 7]."
+    description: "Proficient in object-oriented programming, scripting, and low-level system design."
   },
   {
-    title: "Frameworks & Web[cite: 7]",
+    title: "Frameworks & Web",
     icon: <Cpu className="w-6 h-6 text-indigo-400" />,
     skills: ["Angular", "React", "Node.js", "Spring", "Hibernate", "JPA"],
     borderColor: "hover:border-indigo-500/50",
     glow: "hover:shadow-indigo-500/10",
-    description: "Building responsive web user interfaces and robust enterprise backend services[cite: 7]."
+    description: "Building responsive web user interfaces and robust enterprise backend services."
   },
   {
-    title: "Databases & Tools[cite: 7]",
+    title: "Databases & Tools",
     icon: <Database className="w-6 h-6 text-emerald-400" />,
     skills: ["MongoDB", "MySQL", "Git", "GitHub", "VS Code", "Maven", "IntelliJ IDEA"],
     borderColor: "hover:border-emerald-500/50",
     glow: "hover:shadow-emerald-500/10",
-    description: "Managing relational and document databases, version control, and development environments[cite: 7]."
+    description: "Managing relational and document databases, version control, and development environments."
   }
 ];
 
@@ -38,7 +38,7 @@ export default function Skills() {
           Skills & Technologies
         </h2>
         <p className="text-slate-400 text-base font-light max-w-xl mx-auto">
-          Comprehensive toolset mastered through professional internships and academic projects[cite: 7].
+          Comprehensive toolset mastered through professional internships and academic projects.
         </p>
       </div>
 
@@ -82,7 +82,7 @@ export default function Skills() {
       <div className="mt-12 text-center">
         <div className="inline-flex flex-wrap items-center justify-center gap-3 px-8 py-4 bg-slate-900/80 backdrop-blur-xl rounded-2xl border border-slate-800 shadow-xl">
           <span className="text-xs font-mono uppercase tracking-widest text-slate-400">Spoken Languages:</span>
-          <span className="text-sky-300 font-semibold text-sm">English, Hindi, Urdu, Marathi[cite: 7]</span>
+          <span className="text-sky-300 font-semibold text-sm">English, Hindi, Urdu, Marathi</span>
         </div>
       </div>
     </section>

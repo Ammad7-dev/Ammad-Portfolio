@@ -11,7 +11,7 @@ export default function Contact() {
           Contact Me
         </h2>
         <p className="text-slate-400 text-base font-light max-w-xl mx-auto">
-          Open for full-stack developer roles, enterprise backend positions, and exciting collaborations[cite: 7].
+          Open for full-stack developer roles, enterprise backend positions, and exciting collaborations.
         </p>
       </div>
 
@@ -23,7 +23,7 @@ export default function Contact() {
             </div>
             <div>
               <span className="text-xs font-mono text-slate-400 block uppercase tracking-wider">Location</span>
-              <span className="text-white font-medium text-lg">Camp, Pune 411001[cite: 7]</span>
+              <span className="text-white font-medium text-lg">Camp, Pune 411001</span>
             </div>
           </div>
 
@@ -34,7 +34,7 @@ export default function Contact() {
             <div>
               <span className="text-xs font-mono text-slate-400 block uppercase tracking-wider">Email</span>
               <a href="mailto:ammadmukadam34@gmail.com" className="text-white font-medium text-lg hover:text-sky-400 transition-colors">
-                ammadmukadam34@gmail.com[cite: 7]
+                ammadmukadam34@gmail.com
               </a>
             </div>
           </div>
@@ -46,7 +46,7 @@ export default function Contact() {
             <div>
               <span className="text-xs font-mono text-slate-400 block uppercase tracking-wider">Phone</span>
               <a href="tel:+917219681431" className="text-white font-medium text-lg hover:text-sky-400 transition-colors">
-                +91 7219681431[cite: 7]
+                +91 7219681431
               </a>
             </div>
           </div>
@@ -71,7 +71,7 @@ export default function Contact() {
             rel="noopener noreferrer"
             className="w-full md:w-auto px-8 py-4 bg-sky-500 hover:bg-sky-400 text-slate-950 font-bold rounded-2xl text-center transition-all shadow-lg shadow-sky-500/25 block"
           >
-            Visit LinkedIn Profile[cite: 7]
+            Visit LinkedIn Profile
           </a>
         </div>
       </div>

@@ -22,13 +22,13 @@ export default function Activities() {
         <div className="text-center md:text-left">
           <div className="flex flex-wrap items-center justify-center md:justify-start gap-3 mb-2">
             <span className="text-xs font-mono bg-amber-500/10 text-amber-400 px-3 py-1 rounded-full border border-amber-500/20">
-              August 2025[cite: 7]
+              August 2025
             </span>
             <span className="text-xs font-mono text-slate-400 uppercase tracking-widest">Leadership Milestone</span>
           </div>
-          <h3 className="text-2xl md:text-3xl font-bold text-white mb-2">Google Student Ambassador[cite: 7]</h3>
+          <h3 className="text-2xl md:text-3xl font-bold text-white mb-2">Google Student Ambassador</h3>
           <p className="text-slate-300 text-sm md:text-base font-light leading-relaxed">
-            Selected through a highly competitive application and multi-stage interview process to represent Google technologies, organize student developer events, and foster community tech engagement[cite: 7].
+            Selected through a highly competitive application and multi-stage interview process to represent Google technologies, organize student developer events, and foster community tech engagement.
           </p>
         </div>
       </div>
